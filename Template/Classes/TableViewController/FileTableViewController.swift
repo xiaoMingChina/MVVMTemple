@@ -2,7 +2,7 @@
 //  FileTableViewController.swift
 //  {ModuleName}
 //
-//  Created by {AUTHOR} on {YEAR}/{TODAY}/{DATE}.
+//  Created by {AUTHOR} on {TODAY}.
 //
 
 import Foundation
