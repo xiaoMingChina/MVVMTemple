@@ -48,7 +48,7 @@ class FileCell: SRTableViewCell {
        
     }
     override func setup() {
-        guard let cellModel = self.data as? TestCellModel else { return }
+        guard let cellModel = self.data as? FileCellModel else { return }
         self.label.text = cellModel.title
         self.contentView.layoutSubviews()
     }
